@@ -1,1 +1,1 @@
-# task-management
+# TaskManager TaskManager is a C# program for managing tasks. This program allows users to add, view, mark as completed, and remove tasks. ## Features - Add new task. - View all tasks. - Mark tasks as completed. - Remove tasks.
